@@ -1,0 +1,25 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "store some practice code",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hwfhc/homework.git"
+  },
+  "author": "hwfhc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hwfhc/homework/issues"
+  },
+  "homepage": "https://github.com/hwfhc/homework#readme",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
+}
